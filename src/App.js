@@ -33,6 +33,6 @@ class App extends Component {
     );
   }
 }
-
+console.log('hello, still learning how to use github')
 
 export default App;
